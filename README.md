@@ -31,7 +31,9 @@ urlpatterns = [
 ```
 ## Examples
 Outputs will be like these:
-![alt text](http://url/to/img.png)
+![alt text](![image](https://user-images.githubusercontent.com/75968886/150377899-245e4dce-5fb8-4430-96c0-3a14fdd804b5.png))
+![alt text](![image](https://user-images.githubusercontent.com/75968886/150378069-2646391c-149c-40ca-90e0-97b81c6fea61.png)
+)
 ```bash
 ```
 Our tokens saved in database
