@@ -1,6 +1,6 @@
 # ToDoListUsingDjango
 ## Title:
-a ToDo application with authentication using Django
+ToDo application with authentication using Django
 ## Installation
 
 PyPI
@@ -10,7 +10,8 @@ pip install psycopg2
 pip install jwt
 ```
 or from source
-```bashdjango - https://docs.djangoproject.com/en/4.0/
+```bash
+django - https://docs.djangoproject.com/en/4.0/
 psycopg2 - https://www.psycopg.org/docs/
 ```
 ## Usage
